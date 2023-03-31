@@ -1,10 +1,10 @@
-STOKE DATASET
+<h1> STROKE DATASET </h1>
+<h2> Introduction </h2>
 
-Introduction
 
 This is a stroke dataset downloaded from Kaggle. It contains information on the medical condition of patients with stroke. The dataset has been made available for public use and can be used for machine learning or statistical analysis projects. (https://www.kaggle.com/datasets/prosperchuks/health-dataset?select=stroke_data.csv)
 
-Dataset Description
+<h3> Dataset Description </h3>
 
 The dataset contains the following columns:
 
@@ -30,7 +30,7 @@ moking_status : 1 - smokes, 0 - never smoked
 
 
 
-POSSIBLE USES
+<h4> POSSIBLE USES </h4>
 
 This dataset can be used for various purposes such as:
 
