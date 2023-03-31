@@ -3,6 +3,7 @@
 This dataset contains information about several fish species and their weight, length, and height measurements. The data was collected from the fish market in a small town in Japan.
 
 <h2> Dataset Information </h2>
+
 The dataset includes 159 samples of 7 different fish species, which are:
 
 Bream
@@ -38,6 +39,7 @@ Width: diagonal width in cm
 
 
 <h2> Usage </h2>
+
 This dataset can be used for regression or classification tasks. Some possible uses include:
 
 Predicting the weight of a fish given its measurements
