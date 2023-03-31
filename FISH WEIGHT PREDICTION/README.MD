@@ -21,8 +21,7 @@ Length2: diagonal length in cm
 Length3: cross length in cm
 Height: height in cm
 Width: diagonal width in cm
-Acknowledgements
-The data was obtained from the UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/datasets/Fish+Market
+
 
 <h2> Usage </h2>
 This dataset can be used for regression or classification tasks. Some possible uses include:
